@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BE235D07-3DAF-4482-99EE-5DE3FE83D848"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C088DBD-BA86-4321-B6AD-00BB2DC020D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04DC78EA-4CC3-4330-8393-0604474DB96F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocketTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04DC78EA-4CC3-4330-8393-0604474DB96F - 8778101a65a295db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocketTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SocketTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toutoukoto/Desktop/SocketTest/SocketTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "850">
+               </Location>
+               <Location
+                  uuid = "04DC78EA-4CC3-4330-8393-0604474DB96F - c489813677b2dbd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Any&gt;) -&gt; () in SocketTest.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SocketTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toutoukoto/Desktop/SocketTest/SocketTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
